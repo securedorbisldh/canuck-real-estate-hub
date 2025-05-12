@@ -6,7 +6,7 @@ export const MOCK_ARTICLES: Article[] = [
   {
     id: '1',
     title: 'Toronto Housing Market Shows Signs of Recovery in Q2 2025',
-    summary: 'After a challenging start to the year, Toronto's real estate market is showing promising signs of recovery with increased sales volume and stabilizing prices.',
+    summary: "After a challenging start to the year, Toronto's real estate market is showing promising signs of recovery with increased sales volume and stabilizing prices.",
     content: `<p>Toronto's housing market is showing clear signs of recovery in the second quarter of 2025, according to the latest data from the Toronto Regional Real Estate Board (TRREB).</p>
               <p>Sales increased by 12.5% compared to the same period last year, while new listings rose by only 8%, creating slightly more competitive conditions for buyers. The average selling price for all home types combined increased by 4.2% year-over-year to $1,150,000.</p>
               <h2>Market Segment Performance</h2>
@@ -34,7 +34,7 @@ export const MOCK_ARTICLES: Article[] = [
   {
     id: '2',
     title: 'Vancouver Commercial Real Estate Faces Challenges Amid Office Space Surplus',
-    summary: 'Vancouver's commercial real estate market is grappling with an oversupply of office space as remote work trends persist into 2025.',
+    summary: "Vancouver's commercial real estate market is grappling with an oversupply of office space as remote work trends persist into 2025.",
     content: `<p>Vancouver's commercial real estate sector is facing significant challenges as office vacancy rates climb to 16.8% in the downtown core, the highest level in over a decade.</p>
               <p>The surplus of available office space is primarily attributed to the continued prevalence of remote and hybrid work arrangements, which have become a permanent feature of the corporate landscape following the pandemic years.</p>
               <p>"Companies are reevaluating their space needs and many are downsizing or adopting more flexible arrangements," explains a senior analyst at a leading commercial real estate firm. "We're seeing a trend toward high-quality, amenity-rich spaces but in smaller footprints."</p>
@@ -88,7 +88,7 @@ export const MOCK_ARTICLES: Article[] = [
   {
     id: '4',
     title: 'Montreal Luxury Real Estate Market Reaches New Heights',
-    summary: 'Montreal's luxury property segment is experiencing unprecedented growth as international buyers and wealthy Canadians invest in the city's high-end real estate.',
+    summary: "Montreal's luxury property segment is experiencing unprecedented growth as international buyers and wealthy Canadians invest in the city's high-end real estate.",
     content: `<p>Montreal's luxury real estate market is reaching unprecedented heights, with sales of properties over $4 million increasing by 35% in the first quarter of 2025 compared to the same period last year.</p>
               <p>This surge in high-end transactions comes as Montreal continues to gain recognition as a global city offering exceptional quality of life at prices that remain competitive compared to Toronto and Vancouver.</p>
               <h2>Buyer Demographics</h2>
@@ -149,7 +149,7 @@ export const MOCK_ARTICLES: Article[] = [
   {
     id: '6',
     title: 'Calgary Investment Properties Show Strong ROI Amid Economic Diversification',
-    summary: 'Investors are increasingly turning to Calgary real estate as the city's economy diversifies beyond oil and gas, driving attractive returns.',
+    summary: "Investors are increasingly turning to Calgary real estate as the city's economy diversifies beyond oil and gas, driving attractive returns.",
     content: `<p>Calgary's investment property market is delivering robust returns as the city's economy continues to diversify beyond its traditional oil and gas base.</p>
               <p>Recent data shows average cap rates for multifamily residential properties ranging from 5.2% to 6.5%, significantly higher than those found in Toronto or Vancouver.</p>
               <h2>Economic Drivers</h2>
